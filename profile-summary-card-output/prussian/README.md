@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/pdacity/pdacity/master/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
